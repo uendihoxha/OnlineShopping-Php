@@ -1,0 +1,20 @@
+.tableFeedback {
+    width: 600px;
+    border: none;
+    
+}
+
+.pResultFeedback {
+    color: red;
+    font-style: italic;
+}
+
+#CompanyName {
+    font-weight: bold;
+    color: darkred;
+}
+
+#Address, #PhoneNumber, #Email {
+    font-style: italic;
+    color: darkred;
+}

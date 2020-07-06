@@ -1,0 +1,37 @@
+.tableCart {
+    border-color: #f5fa7f;
+    border-width: thin;
+}
+.tableCart tr#trTop_TableCart {
+    background: #2c2b3b;
+    color: #fff;
+}
+
+.tableCart tr#trBottom_TableCart {
+    background: #2c2b3b;
+    color: #f5fa7f;
+    /*border: none;*/
+}
+
+.tableCart tr#trBottom_TableCart td {
+    border: none;
+}
+
+.tableCart th {
+    text-align: center;
+    font-size: 14px;
+}
+
+.btnOrder {
+    height: 30px;
+    width: 100px;
+    background-color: #63666b;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.pResultLogin {
+    color: darkred;
+    font-style: italic;
+}

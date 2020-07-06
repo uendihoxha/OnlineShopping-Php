@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LeftMenu>
+	<Option>
+		<Name>SKINCARE</Name>
+		<Link>products.php?type=Skincare</Link>
+	</Option>
+	<Option>
+		<Name>MAKEUP</Name>
+		<Link>products.php?type=Makeup</Link>
+	</Option>
+	<Option>
+		<Name>HAIRCARE</Name>
+		<Link>products.php?type=Haircare</Link>
+	</Option>
+	<Option>
+		<Name>PERFUMES</Name>
+		<Link>products.php?type=Perfumes</Link>
+	</Option>
+	<Option>
+		<Name>LOTIONS</Name>
+		<Link>products.php?type=Lotions</Link>
+	</Option>
+	<Option>
+		<Name>OTHERS</Name>
+		<Link>products.php?type=Others</Link>
+	</Option>
+</LeftMenu>

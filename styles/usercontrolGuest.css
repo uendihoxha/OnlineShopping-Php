@@ -1,0 +1,41 @@
+.tableCart {
+    border-color: #f5fa7f;
+    border-width: thin;
+    
+    font-size: 12px;
+}
+.tableCart tr#trTop_TableCart {
+    background: #2c2b3b;
+    color: #fff;
+}
+
+.tableCart tr#trBottom_TableCart {
+    background: #2c2b3b;
+    color:  #f5fa7f;
+    /*border: none;*/
+}
+
+.tableCart tr#trBottom_TableCart td {
+    border: none;
+}
+
+.tableCart td {
+    border-color: #e6c5eb;
+    padding-left: 10px;
+}
+
+.tableCart th {
+    text-align: center;
+    font-size: 14px;
+}
+
+.pResultLogin {
+    color: red;
+    font-style: italic;
+}
+
+.spanProductPrice {
+    color: #4f384a;
+    font-size: 12px;
+    font-weight: bold;
+}
